@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  
+  
 }
 
 .App-logo {
@@ -35,4 +37,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+ 
+
+.Todo{
+
+border: 1px solid skyblue;
+width: 500px;
+margin: auto;
+margin-top: 20px;
+} 
+
+ol{
+ text-align: center;
+ width: 100%; 
+ 
 }
